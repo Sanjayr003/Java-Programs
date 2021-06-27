@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7670" started-at="2021-06-27T10:21:22 IST" finished-at="2021-06-27T10:21:29 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7670" started-at="2021-06-27T10:21:22 IST" finished-at="2021-06-27T10:21:29 IST">
+      <class name="extentrep.reportexample">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:extentrep.reportexample@17579e0f]" name="openbrowser" is-config="true" duration-ms="4402" started-at="2021-06-27T10:21:22 IST" finished-at="2021-06-27T10:21:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="openbing()[pri:0, instance:extentrep.reportexample@17579e0f]" name="openbing" duration-ms="632" started-at="2021-06-27T10:21:26 IST" finished-at="2021-06-27T10:21:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbing -->
+        <test-method status="PASS" signature="opengoogle()[pri:0, instance:extentrep.reportexample@17579e0f]" name="opengoogle" duration-ms="1072" started-at="2021-06-27T10:21:27 IST" finished-at="2021-06-27T10:21:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opengoogle -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:extentrep.reportexample@17579e0f]" name="closebrowser" is-config="true" duration-ms="1512" started-at="2021-06-27T10:21:28 IST" finished-at="2021-06-27T10:21:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- extentrep.reportexample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
